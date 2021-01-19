@@ -79,7 +79,6 @@ html{
   
   h3{
     font-weight:400;
-    text-decoration: overline;
     font-size:0.9rem;
     color:#5B3256;
     padding-bottom:1rem;
@@ -89,6 +88,18 @@ html{
     padding: 2rem;
   }
   
+
+  h4{
+    font-weight:400;
+    font-size:1rem;
+    text-decoration: overline;
+    color:#5B3256;
+    padding-bottom:1rem;
+    font-family:"Verdana", sans-serif;
+    text-align: center;
+    text-align: justify;
+    padding: 2rem;
+  }
   p{
     color:#000000;
     font-size:1.1rem;
