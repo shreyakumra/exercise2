@@ -3,7 +3,7 @@ h1{
     font-family:"Verdana", sans-serif;
     text-align: center;
     text-align: justify;
-    padding: 2rem;
+    
     
 
     
@@ -63,7 +63,7 @@ html{
     font-family:"Verdana", sans-serif;
     text-align: center;
     text-align: justify;
-    padding: 2rem;
+    
   }
   
   h2{
@@ -80,6 +80,7 @@ html{
   h3{
     font-weight:400;
     font-size:0.9rem;
+    text-decoration: overline;
     color:#5B3256;
     padding-bottom:1rem;
     font-family:"Verdana", sans-serif;
@@ -92,7 +93,7 @@ html{
   h4{
     font-weight:400;
     font-size:1rem;
-    text-decoration: underline;
+    
     color:#5B3256;
     padding-bottom:1rem;
     font-family:"Verdana", sans-serif;
