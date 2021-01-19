@@ -1,7 +1,7 @@
 h1{ 
     color: #5B3256;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
     
 
     
@@ -10,7 +10,7 @@ h1{
 h2{
     color: #5B3256;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
 }
 
 p1{
@@ -19,7 +19,7 @@ p1{
     margin:0px;
     
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
   }
 
 
@@ -27,7 +27,7 @@ p{
     color:#000000;
     font-size:2rem;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
 }
 
 
@@ -39,7 +39,7 @@ html{
     font-family:"Times New Roman", serif;
     background-color:#f5f4ed;
     margin-left:20px;
-    text-align:center;
+    text-align: center;
   }
   
   main{
@@ -51,7 +51,7 @@ html{
     font-weight:400;
     font-size:2.5rem;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
   }
   
   h2{
@@ -60,7 +60,7 @@ html{
     font-size:1.7rem;
     padding-top:1.5rem;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
   }
   
   h3{
@@ -70,7 +70,7 @@ html{
     color:#5B3256;
     padding-bottom:1rem;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
   }
   
   p{
@@ -79,7 +79,7 @@ html{
     margin:0px;
     
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
     
   }
 
@@ -87,14 +87,14 @@ html{
     font-size:1.3rem;
     margin:0px;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
     
   }
 
   .test{
   color: #5B3256;
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
 
   }
 
@@ -104,6 +104,6 @@ html{
     margin:0px;
     
     font-family:"Verdana", sans-serif;
-    text-align:center;
+    text-align: center;
     
   }
